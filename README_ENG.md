@@ -46,7 +46,7 @@ As alomost always nx * ny < 1000 * 1000, count_data < 1000, => total time < O(10
   ![Photo 2](https://github.com/Polinakleidman/Interpolation_with_fractures/blob/main/no_diag.jpg "") 
   
   * Third picture. It's analogy to the second one, but now Chebyshev metric is used instead of Manhattan. As we see, lowest graphic is almost perfect: *cloves* are gone, isolines are round-shaped, but there are still *vibrations*.
-  * **Photo 2b**
+  * **Photo 3**
   ![Photo 3](https://github.com/Polinakleidman/Interpolation_with_fractures/blob/main/diag.jpg "")
   * How to get rid of vibrations:
     
